@@ -6,7 +6,7 @@
 
   Netflix-Clone is a fully responsive front Page <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://netflix-by-rushikesh.netlify.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://clone-by-rushi.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
