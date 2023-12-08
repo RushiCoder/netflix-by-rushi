@@ -8,10 +8,6 @@ const tabContentItems = document.querySelectorAll(".tab-content-item");
 // const registerLink = document.querySelector('.register-link');
 // const btnPopup = document.querySelector('.btn');
 // const iconClose = document.querySelector('.icon-close');
-//login
-
-
-
 
 // Select tab content
 function selectItem(e) {
@@ -50,7 +46,7 @@ btnPopup.addEventListener('click', () => {
 iconClose.addEventListener('click', () => {
   wrapper.classList.remove('active-popup');
 });
-//login
+
 
 
 
